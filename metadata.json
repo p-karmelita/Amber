@@ -1,0 +1,7 @@
+{
+  "name": "ARC Multi-Agent USDC Hub",
+  "description": "A sophisticated multi-agent dashboard for managing Circle Wallet transactions on the ARC blockchain, featuring AI-driven financial strategy, execution, and security monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
